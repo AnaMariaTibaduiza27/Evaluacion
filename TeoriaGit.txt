@@ -15,7 +15,8 @@ programadores que lo revisan.
 Los almacenes de información pueden publicarse por HTTP, FTP, rsync o mediante un protocolo
 nativo, ya sea a través de una conexión TCP/IP simple o a través de cifrado SSH. Git también puede
 emular servidores CVS, lo que habilita el uso de clientes CVS pre-existentes y módulos IDE para CVS
-pre-existentes en el acceso de repositorios Git.
+pre-existentes en el acceso de repositorios Git.
+
 
 GitHub
 GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el
@@ -25,3 +26,6 @@ enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era con
 Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de
 forma pública, aunque utilizando una cuenta de pago, también permite hospedar repositorios
 privados.
+
+Ana Maria Tibaduiza Vega 
+1007826412
